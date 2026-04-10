@@ -1,6 +1,6 @@
 {
-  "name": "import-linter",
-  "version": "1.0.0",
+  "name": "@kirisu2503/import-linter",
+  "version": "0.1.0",
   "description": "CLI tool to detect orphan imports in React and TypeScript projects",
   "type": "module",
   "files": [
@@ -30,13 +30,13 @@
   ],
   "author": "Sebastian Raul Castillo Vasquez",
   "license": "MIT",
-  "homepage": "https://github.com/sebastianrcv/import-linter",
+  "homepage": "https://github.com/kirisu2503/import-linter",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sebastianrcv/import-linter.git"
+    "url": "https://github.com/kirisu2503/import-linter.git"
   },
   "bugs": {
-    "url": "https://github.com/sebastianrcv/import-linter/issues"
+    "url": "https://github.com/kirisu2503/import-linter/issues"
   },
   "engines": {
     "node": ">=18.0.0"

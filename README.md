@@ -1,17 +1,17 @@
-# import-linter
+# @kirisu2503/import-linter
 
 <p align="center">
-  <img src="https://img.shields.io/npm/v/import-linter?style=flat&color=blue" alt="npm version">
-  <img src="https://img.shields.io/node/v/import-linter" alt="node version">
-  <img src="https://img.shields.io/github/license/sebastianrcv/import-linter" alt="license">
-  <img src="https://img.shields.io/github/actions/workflow/status/sebastianrcv/import-linter/test.yml" alt="CI">
+  <img src="https://img.shields.io/npm/v/@kirisu2503/import-linter?style=flat&color=blue" alt="npm version">
+  <img src="https://img.shields.io/node/v/@kirisu2503/import-linter" alt="node version">
+  <img src="https://img.shields.io/github/license/kirisu2503/import-linter" alt="license">
+  <img src="https://img.shields.io/github/actions/workflow/status/kirisu2503/import-linter/test.yml" alt="CI">
 </p>
 
 Detect orphan imports before your app breaks at runtime. A production-ready CLI tool for finding broken imports in TypeScript, JavaScript, and React projects.
 
-## Why import-linter?
+## Why @kirisu2503/import-linter?
 
-Every developer has experienced that moment when an app fails at runtime with a cryptic "Cannot find module" error. import-linter catches these issues **before deployment** by analyzing your codebase and identifying imports that point to non-existent files or missing exports.
+Every developer has experienced that moment when an app fails at runtime with a cryptic "Cannot find module" error. @kirisu2503/import-linter catches these issues **before deployment** by analyzing your codebase and identifying imports that point to non-existent files or missing exports.
 
 ## Features
 
@@ -28,10 +28,10 @@ Every developer has experienced that moment when an app fails at runtime with a 
 
 ```bash
 # Global installation
-npm install -g import-linter
+npm install -g @kirisu2503/import-linter
 
 # Or run directly with npx
-npx import-linter scan src/
+npx @kirisu2503/import-linter scan src/
 ```
 
 ## Quick Start
